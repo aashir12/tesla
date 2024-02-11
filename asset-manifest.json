@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tesla/static/css/main.e19ec33b.css",
+    "main.js": "/tesla/static/js/main.d738338c.js",
+    "static/media/GothamSSm-Book_Web.woff2": "/tesla/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
+    "index.html": "/tesla/index.html",
+    "main.e19ec33b.css.map": "/tesla/static/css/main.e19ec33b.css.map",
+    "main.d738338c.js.map": "/tesla/static/js/main.d738338c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19ec33b.css",
+    "static/js/main.d738338c.js"
+  ]
+}
