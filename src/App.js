@@ -31,7 +31,7 @@ function App() {
       </div>
       {Data.map((item, index) => (
         <div key={index} className="h-screen bg-cover bg-center" style={{backgroundImage: `url('${windowWidth < 800 ? item.url_sm : item.url_lg}')`}}>
-          <Model title={item.title} design={item.design}/>
+          <Model title={item.title} design={item.design} color={item.color}/>
         </div>
       ))}
       </div>

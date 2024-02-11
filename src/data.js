@@ -24,7 +24,8 @@ const Data=[
         title:'Tesla Solar Roof',
         url_sm:'teslaSolar_sm.jpg',
         url_lg:'teslaSolar_lg.jpeg',
-        design:'https://www.tesla.com/energy/design'
+        design:'https://www.tesla.com/energy/design',
+        color:'font-white'
     },
     {
         title:'Tesla Cyber Truck',

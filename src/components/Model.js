@@ -2,14 +2,14 @@ import React,{useEffect} from "react";
 import { FiChevronDown } from "react-icons/fi";
 
 
-const Model = ({title,design}) => {
+const Model = ({title,design,color}) => {
  
   return (
 <>
 <div>
       <div className=" inset-x-0  text-center  pt-[5vh] md:pt-[8vh]">
 
-    <h1 className="text-4xl font-bold"> {title}</h1>
+    <h1 className={`text-4xl font-bold ${color}`}> {title}</h1>
         <p className="text-sm p-2">
           {" "}
           Order Online for{" "}
